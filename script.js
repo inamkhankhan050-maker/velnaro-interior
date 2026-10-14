@@ -23,7 +23,7 @@ const serviceContent = {
     kicker: 'ALL THE DETAILS, IN ONE PLACE',
     title: 'Complete home interiors',
     description: 'Bring the whole home together with coordinated finishing work, carefully considered details and a clear point of contact.',
-    points: ['Painting and wall finishes', 'Kitchens and home fittings', 'Ironwork, fabrics and finishing'],
+    points: ['Painting, wallpaper and wall moulding', 'Kitchens, PVC and ceiling work', 'Wardrobes, ironwork and fabrics'],
     image: 'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1300&q=90',
     alt: 'Warm modern living room with considered furnishings',
   },
